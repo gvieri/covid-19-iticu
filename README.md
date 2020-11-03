@@ -9,6 +9,6 @@ Usa i dati ufficiali disponibili per graficare e mostrare considerazioni sullo s
 * per partire serve fare login con google.
 
 
-### per vederlo su mybinder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gvieri/covid-19-iticu/main?filepath=covid19_iticu.ipynb)
+### per vederlo su mybinder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gvieri/covid-19-iticu/main?urlpath=apps%2Fcovid19_iticu.ipynb)
 * per partire serve seleziona Kernel, Restart & Run All. 
  
