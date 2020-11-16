@@ -4,6 +4,7 @@
 
 Usa i dati ufficiali disponibili per graficare e mostrare considerazioni sullo stato dei ricoveri in ICU nelle regioni italiane. 
 
+Ci sono, sempre su base regionale, i grafici dei contagi, dei dimessi e purtroppo dei morti associati. 
 
 ### per vederlo su colab: https://colab.research.google.com/github/gvieri/covid-19-iticu/blob/main/covid19_iticu.ipynb
 * per partire serve fare login con google.
